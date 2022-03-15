@@ -2,8 +2,11 @@
 
 <!-- text -->
 
-You can find me on: <br>   [![Twitter][1.2]][1] Twitter <br>   [![LinkedIn][3.2]][2]LinkedIn
-
+You can find me on: <br>    <br>  
+<ul>
+  <li>[![Twitter][1.2]][1] Twitter</li>
+  <li>[![LinkedIn][3.2]][2] LinkedIn</li>
+</ul>
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
