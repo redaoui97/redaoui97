@@ -2,7 +2,7 @@
 
 <!-- text -->
 
-You can find me on: <br>[![Twitter][1.2]][1]Twitter <br> [![LinkedIn][3.2]][2]LinkedIn
+You can find me on: <br>   [![Twitter][1.2]][1] Twitter <br>   [![LinkedIn][3.2]][2]LinkedIn
 
 <!-- Icons -->
 
