@@ -1,5 +1,5 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=dark)](https://github.com/redaoui97?tab=repositories)
+[![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=false&count_private=true&theme=dark)](https://github.com/redaoui97?tab=repositories)
 [![redaoui97's GitHub stats](https://github-readme-stats.vercel.app/api?username=redaoui97&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=dark)](https://github.com/redaoui97?tab=repositories)
 <!--
 **redaoui97/redaoui97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
