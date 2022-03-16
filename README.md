@@ -4,8 +4,8 @@
 
 You can find me on: <br>    <br>  
 <ul>
-  <li>[![Twitter][1.2]][1] Twitter</li>
-  <li>[![LinkedIn][3.2]][2] LinkedIn</li>
+  <li> [![Twitter][1.2]][1] Twitter</li>
+  <li> [![LinkedIn][3.2]][2] LinkedIn</li>
 </ul>
 <!-- Icons -->
 
