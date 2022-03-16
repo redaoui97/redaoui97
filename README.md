@@ -3,8 +3,8 @@
 <!-- text -->
 
 You can find me on:<br>
-•[![Twitter][1.2]][1] Twitter <br>
-•[![LinkedIn][3.2]][2] LinkedIn</li>
+•[![Twitter][1.2]][1]  <a href="https://twitter.com/redaoui97">Twitter</a>  <br>
+•[![LinkedIn][3.2]][2] <a href="https://www.linkedin.com/in/reda-nabil-a001a1159/">LinkedIn</a></li>
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -12,8 +12,8 @@ You can find me on:<br>
 
 <!-- Links  -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/redaoui97
+[2]: https://www.linkedin.com/in/reda-nabil-a001a1159/
 
 <!-- Most used languages stats -->
 
