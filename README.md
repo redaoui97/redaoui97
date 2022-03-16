@@ -1,5 +1,8 @@
 ## Salam, hh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<h3>About me</h3>
+Nabil Reda, junior full stack developer and student at 1337 Khouribga.
+Interested in web security, blockchain and NLP.
 <!-- text -->
 
 You can find me on:<br>
