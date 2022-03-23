@@ -2,7 +2,8 @@
 
 <h3>About me</h3>
 Nabil Reda, junior full stack developer and student at 1337 Khouribga.<br>
-Interested in web security, blockchain and NLP.
+Interested in web security, blockchain and NLP.<br>
+
 <!-- text -->
 
 You can find me on:<br>
