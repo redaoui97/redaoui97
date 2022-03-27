@@ -1,7 +1,6 @@
 ## Salam, hh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!-- ![hackerman](https://i.makeagif.com/media/4-12-2017/wOJFFS.gif) -->
-<img src="https://i.makeagif.com/media/4-12-2017/wOJFFS.gif" class="center"/>
 <p align="center">
   <img src="https://i.makeagif.com/media/4-12-2017/wOJFFS.gif" class="center"/>
 </p>
