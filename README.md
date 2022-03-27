@@ -3,7 +3,7 @@
 <!-- ![hackerman](https://i.makeagif.com/media/4-12-2017/wOJFFS.gif) -->
 <img src="https://i.makeagif.com/media/4-12-2017/wOJFFS.gif" class="center"/>
 <p align="center">
-  ![hackerman](https://i.makeagif.com/media/4-12-2017/wOJFFS.gif)
+  <img src="https://i.makeagif.com/media/4-12-2017/wOJFFS.gif" class="center"/>
 </p>
 <h3>About me</h3>
 Nabil Reda, junior full stack developer and student at 1337 Khouribga.<br>
