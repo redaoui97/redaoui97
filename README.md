@@ -1,7 +1,10 @@
-<!-- ![hackerman](https://i.makeagif.com/media/4-12-2017/wOJFFS.gif) -->
-<img src="https://i.makeagif.com/media/4-12-2017/wOJFFS.gif" class="center"/>
 ## Salam, hh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<!-- ![hackerman](https://i.makeagif.com/media/4-12-2017/wOJFFS.gif) -->
+<img src="https://i.makeagif.com/media/4-12-2017/wOJFFS.gif" class="center"/>
+<p align="center">
+  ![hackerman](https://i.makeagif.com/media/4-12-2017/wOJFFS.gif)
+</p>
 <h3>About me</h3>
 Nabil Reda, junior full stack developer and student at 1337 Khouribga.<br>
 Interested in web security, blockchain and NLP.<br>
