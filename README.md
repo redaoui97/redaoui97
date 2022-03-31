@@ -12,7 +12,8 @@ Interested in web security, blockchain and NLP.<br>
 
 You can find me on:<br>
 •[![Twitter][1.2]][1]  <a href="https://twitter.com/redaoui97">Twitter</a>  <br>
-•[![LinkedIn][3.2]][2] <a href="https://www.linkedin.com/in/reda-nabil-a001a1159/">LinkedIn</a></li>
+•[![LinkedIn][3.2]][2] <a href="https://www.linkedin.com/in/reda-nabil-a001a1159/">LinkedIn</a></li> <br>
+<a href="https://app.hackthebox.com/users/994727">•Hack the box</a></li> <br>
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
