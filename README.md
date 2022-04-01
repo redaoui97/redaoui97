@@ -29,4 +29,4 @@ You can find me on:<br>
 <p align="center">
   <br>[![rnabil's 42 stats](https://badge.mediaplus.ma/binary/rnabil)](https://github.com/oakoudad/badge42)
 </p>
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
