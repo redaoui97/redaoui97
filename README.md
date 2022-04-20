@@ -6,7 +6,7 @@
 </p>
 <h3>About me</h3>
 Nabil Reda, junior full stack developer and student at <a href="https://1337.ma/en/" target="_blank" >1337</a></li>  Khouribga.<br>
-Interested in web security, blockchain and NLP.<br>
+Interested in web security, malware analysis, blockchain and NLP.<br>
 
 <!-- text -->
 
@@ -25,11 +25,11 @@ You can find me on:<br>
 [2]: https://www.linkedin.com/in/reda-nabil-a001a1159/
 
 <!-- 42 stats-->
-[![rnabil's 42 stats](https://badge.mediaplus.ma/binary/rnabil)](https://github.com/oakoudad/badge42)
+<!-- [![rnabil's 42 stats](https://badge.mediaplus.ma/binary/rnabil)](https://github.com/oakoudad/badge42) -->
  
 <!-- github stats -->
 
 | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=false&count_private=true&theme=dark)](https://github.com/redaoui97?tab=repositories)  | [![redaoui97's GitHub stats](https://github-readme-stats.vercel.app/api?username=redaoui97&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=dark)](https://github.com/redaoui97?tab=repositories) |
 |------------------------------------------------------------|------------------------------------------------------------|
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
