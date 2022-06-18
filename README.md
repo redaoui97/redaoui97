@@ -4,9 +4,9 @@
 <p align="center">
   <img src="https://c.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" class="center"/>
 </p>
-<h3>About me</h3>
+<h3>About me </h3>
 Nabil Reda, junior full stack developer and student at <a href="https://1337.ma/en/" target="_blank" >1337</a></li>  Khouribga.<br>
-Interested in web security, malware analysis, blockchain and NLP.<br>
+.<br>
 
 <!-- text -->
 
