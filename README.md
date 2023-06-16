@@ -36,7 +36,7 @@ You can find me on:<br>
  
 <!-- github stats -->
 
-| [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=false&count_private=true&theme=dark)](https://github.com/redaoui97?tab=repositories)  | [![redaoui97's GitHub stats](https://github-readme-stats.vercel.app/api?username=redaoui97&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=dark)](https://github.com/redaoui97?tab=repositories) |
-|------------------------------------------------------------|------------------------------------------------------------|
+| <a href="https://github.com/appinha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=false&count_private=true&theme=dark" alt="appinha's most used languages"></a> | <a href="https://github.com/redaoui97?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=redaoui97&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=dark" alt="redaoui97's GitHub stats"></a> |
+|:---:|:---:|
 
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
