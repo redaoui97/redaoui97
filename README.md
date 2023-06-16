@@ -28,7 +28,11 @@ You can find me on:<br>
 [2]: https://www.linkedin.com/in/reda-nabil-a001a1159/
 
 <!-- 42 stats-->
-[![rnabil's 42 stats](https://badge.mediaplus.ma/binary/rnabil)](https://github.com/oakoudad/badge42)
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/rnabil" alt="rnabil's 42 stats">
+  </a>
+</p>
  
 <!-- github stats -->
 
