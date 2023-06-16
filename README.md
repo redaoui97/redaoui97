@@ -1,12 +1,12 @@
-## Salam, hh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, hh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!-- ![hackerman](https://i.makeagif.com/media/4-12-2017/wOJFFS.gif) -->
+![hackerman](https://i.makeagif.com/media/4-12-2017/wOJFFS.gif)
 <p align="center">
   <img src="https://c.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" class="center"/>
 </p>
 <h3>About me </h3>
 Nabil Reda, junior full stack developer and student at <a href="https://1337.ma/en/" target="_blank" >1337</a></li>  Khouribga.<br>
-.<br>
+<br>
 
 <!-- text -->
 
@@ -14,6 +14,8 @@ You can find me on:<br>
 •[![Twitter][1.2]][1]  <a href="https://twitter.com/redaoui97" target="_blank">Twitter</a>  <br>
 •[![LinkedIn][3.2]][2] <a href="https://www.linkedin.com/in/reda-nabil-a001a1159/" target="_blank">LinkedIn</a></li> <br>
 •<a href="https://app.hackthebox.com/users/994727" target="_blank">Hack the box</a></li> <br>
+•<a href="https://redaoui.hashnode.dev/" target="_blank">My blog(soon)</a></li> <br>
+
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
