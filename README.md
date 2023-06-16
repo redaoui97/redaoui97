@@ -5,7 +5,8 @@
   <img src="https://i.makeagif.com/media/4-12-2017/wOJFFS.gif" alt="hackerman">
 </p>
 <h3>About me </h3>
-Nabil Reda, junior full stack developer and student at <a href="https://1337.ma/en/" target="_blank" >1337</a></li>  Khouribga.<br>
+Nabil Reda, junior full stack developer, CTFer, Penetration tester and student at <a href="https://1337.ma/en/" target="_blank" >1337</a></li>  Khouribga.<br>
+
 <br>
 
 <!-- text -->
@@ -27,7 +28,7 @@ You can find me on:<br>
 [2]: https://www.linkedin.com/in/reda-nabil-a001a1159/
 
 <!-- 42 stats-->
-<!-- [![rnabil's 42 stats](https://badge.mediaplus.ma/binary/rnabil)](https://github.com/oakoudad/badge42) -->
+[![rnabil's 42 stats](https://badge.mediaplus.ma/binary/rnabil)](https://github.com/oakoudad/badge42)
  
 <!-- github stats -->
 
