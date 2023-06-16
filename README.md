@@ -1,8 +1,8 @@
 ## Hello, hh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<p align="center">
   ![hackerman](https://i.makeagif.com/media/4-12-2017/wOJFFS.gif)
+<p align="center">
 </p>
 <h3>About me </h3>
 Nabil Reda, junior full stack developer and student at <a href="https://1337.ma/en/" target="_blank" >1337</a></li>  Khouribga.<br>
