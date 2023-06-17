@@ -6,19 +6,17 @@
 
 <!-- Description -->
 <h3>About me </h3>
-Nabil Reda, junior full stack developer, CTFer, Penetration tester and student at <a href="https://1337.ma/en/" target="_blank" >1337</a></li>  Khouribga. <br>
+redaoui, junior full stack developer, CTFer, Penetration tester and student at <a href="https://1337.ma/en/" target="_blank" >1337</a></li>  Khouribga. <br>
 <br>
 
 <!-- links -->
 You can find me on:<br>
 •<a href="https://twitter.com/redaoui_97" target="_blank">Twitter</a>  <br>
-•<a href="https://www.linkedin.com/in/reda-nabil-a001a1159/" target="_blank">LinkedIn</a></li> <br>
 •<a href="https://app.hackthebox.com/users/994727" target="_blank">Hack the box</a></li> <br>
 •<a href="https://redaoui.hashnode.dev/" target="_blank">My blog(soon)</a></li> <br>
 
 <!-- Links  -->
 [1]: https://twitter.com/redaoui97
-[2]: https://www.linkedin.com/in/reda-nabil-a001a1159/
 
 <!-- 42 stats-->
 <!-- will add later maybe, Idk
