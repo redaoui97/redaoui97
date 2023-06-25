@@ -6,7 +6,7 @@
 
 <!-- Description -->
 <h3>About me </h3>
-redaoui, junior full stack developer, CTFer, Penetration tester and student at <a href="https://1337.ma/en/" target="_blank" >1337</a></li>  Khouribga. <br>
+redaoui, full stack developer, CTFer, Penetration tester and student at <a href="https://1337.ma/en/" target="_blank" >1337</a></li>  Khouribga. <br>
 <br>
 
 <!-- links -->
