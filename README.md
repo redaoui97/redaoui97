@@ -13,7 +13,7 @@ redaoui, full stack developer, CTFer, Penetration tester and student at <a href=
 You can find me on:<br>
 •<a href="https://twitter.com/redaoui_97" target="_blank">Twitter</a>  <br>
 •<a href="https://app.hackthebox.com/users/994727" target="_blank">Hack the box</a></li> <br>
-•<a href="https://redaoui.hashnode.dev/" target="_blank">My blog(soon)</a></li> <br>
+•<a href="https://redaoui.hashnode.dev/" target="_blank">My blog</a></li> <br>
 
 <!-- Links  -->
 [1]: https://twitter.com/redaoui97
